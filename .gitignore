@@ -1,0 +1,4 @@
+#Ignorer les fichiers eclipse.txt et maven.jpg
+/eclipse.txt
+/maven.jpg
+
